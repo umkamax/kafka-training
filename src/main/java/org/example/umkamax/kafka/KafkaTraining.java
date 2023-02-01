@@ -1,3 +1,4 @@
+package org.example.umkamax.kafka;
 
 public class KafkaTraining {
 
